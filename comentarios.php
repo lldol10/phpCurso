@@ -9,8 +9,18 @@
 <body>
     <?php
     
+        // comentario de uma unica linha
         echo 'comando echo <br>';
+
+        #comentario de uma unica linha
         print 'comando print <hr>';
+
+        /* 
+            comentario
+            de
+            multiplas
+            linhas
+        */
 
     ?>
 </body>
